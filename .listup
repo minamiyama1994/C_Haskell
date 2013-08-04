@@ -1,2 +1,2 @@
 #! /bin/sh
-ls .listup Makefile
+ls .listup Makefile C_Haskell.hs
